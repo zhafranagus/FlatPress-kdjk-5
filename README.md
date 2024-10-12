@@ -11,13 +11,14 @@ FlatPress adalah sistem manajemen konten (CMS) blog gratis berbasis file yang ri
 
 ## Proses instalasi : 
 1. Kunjungi github FlatPress lalu cari link untuk download
+[](./images/1.png)
 2. Download file zip yang disediakan di website resmi FlatPress
-3. Kunjungi rumahweb dan beli paket hosting serta domain
-4. Login panel dan masukkan file zip serta extract di folder public_html
-5. Buat database untuk website yang akan di hosting
-6. Buat user dan pastikan seluruh privileged dimiliki oleh user tersebut, jadikan admin dari database yang sudah dibuat sebelumnya
-7. Kunjungi domain yang telah dibuat dan ikuti langkah setup pada FlatPress
-8. FlatPress sudah dapat diakses menggunakan domain yang sudah dibuat
+4. Kunjungi rumahweb dan beli paket hosting serta domain
+5. Login panel dan masukkan file zip serta extract di folder public_html
+6. Buat database untuk website yang akan di hosting
+7. Buat user dan pastikan seluruh privileged dimiliki oleh user tersebut, jadikan admin dari database yang sudah dibuat sebelumnya
+8. Kunjungi domain yang telah dibuat dan ikuti langkah setup pada FlatPress
+9. FlatPress sudah dapat diakses menggunakan domain yang sudah dibuat
 
 # Konfigurasi
 Admin dapat melakukan konfigurasi dalam lingkup general (admin, blog, dan website)
